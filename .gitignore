@@ -1,0 +1,14 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+*.user
+.flatpak-builder
+build-dir
+dist/
+
+#Visual Studio
+.vs/
+**/Properties/launchSettings.json
